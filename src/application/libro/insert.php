@@ -11,7 +11,7 @@ $tabla = 'libros';
 $campos = array(
     'titulo',
     'autor',
-    'paginass',
+    'paginas',
     'isbn',
 );
 

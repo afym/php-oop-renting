@@ -4,6 +4,6 @@
 <ul>
     <li><a href="view/libro/insert.php">Insertar libro</a></li>
     <li><a href="view/libro/list.php">Listar libros</a></li>
+    <li><a href="view/sesion/count.php">Contar</a></li>
 </ul>
-
 <?php include_once 'view/template/footer.phtml'; ?>
